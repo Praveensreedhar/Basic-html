@@ -1,0 +1,19 @@
+div {
+    width: 400px;
+    height: 200px;
+    background: rgba(197, 188, 188, 0.877);
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-left: 60px;
+    padding-top: 30px;
+    border: 2px solid;
+    border-color: #1e14ed;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
